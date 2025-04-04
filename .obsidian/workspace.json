@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "419875d67bab3456",
+    "id": "9e2502f26f97a5c5",
     "type": "split",
     "children": [
       {
-        "id": "044c18d13eeac8ef",
+        "id": "68266e6a42573660",
         "type": "tabs",
         "children": [
           {
-            "id": "9000e8afd123ef46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Template_NPC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Template_NPC"
-            }
-          },
-          {
-            "id": "9af2d013207c48d5",
+            "id": "8cb2dd54016b175a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,22 +21,21 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7cf766fdf6af99e7",
+    "id": "765589e1ef710919",
     "type": "split",
     "children": [
       {
-        "id": "8ccded977680712e",
+        "id": "b77f0309b159452c",
         "type": "tabs",
         "children": [
           {
-            "id": "180008dcf5b3cf0a",
+            "id": "a0f84e2e4f988f18",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "37af13dad9924998",
+            "id": "5e1c57eaff99d92a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "777f5ee5aaebd150",
+            "id": "0bb4aa3d805e171e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "2e1186e782627fc4",
+    "id": "4e62d8527d09f322",
     "type": "split",
     "children": [
       {
-        "id": "71620932b879d631",
+        "id": "c4b51fb399ac1b66",
         "type": "tabs",
         "children": [
           {
-            "id": "0091f575aa2bc1c4",
+            "id": "029d919afbe41b1e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -123,7 +108,7 @@
             }
           },
           {
-            "id": "c36a0569792d654b",
+            "id": "298e56751329bf59",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -137,7 +122,7 @@
             }
           },
           {
-            "id": "5dc494cdc816cef4",
+            "id": "e23661f9aba19b2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +135,7 @@
             }
           },
           {
-            "id": "f782709d4cc1a151",
+            "id": "cf26b956b1f7b15e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -160,13 +145,23 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "d48076200a7b99b0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,33 +174,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9af2d013207c48d5",
+  "active": "8cb2dd54016b175a",
   "lastOpenFiles": [
-    "Templates/Template_NPC.md",
-    "Untitled.md",
-    "NPC/The Five Gods of Thylea/Kyrah, The Goddess of Music.md",
-    "NPC/The Five Gods of Thylea/Mytros, The Goddess of Dawn.md",
-    "NPC/The Five Gods of Thylea/Pythor, The God of Battle.md",
-    "NPC/The Five Gods of Thylea/Vallus, The Goddess of Wisdom.md",
-    "NPC/The Five Gods of Thylea/Volkan, The God of Forges.md",
-    "Pasted image 20250401135803.png",
-    "NPC/The Five Gods of Thylea",
-    "The Five Gods of Thylea.md",
-    "World of Thylea.md",
+    "This is a test of sync.md",
     "The Titans of Thylea.md",
-    "Templates/Template_Epic_Path.md",
-    "2025-03-31.md",
+    "Untitled.md",
+    "World of Thylea.md",
+    "The Five Gods of Thylea.md",
     "Templates/Template_Session.md",
+    "Templates/Template_NPC.md",
     "Templates/Template_Location.md",
-    "Welcome.md",
-    "URL.md",
-    "Session Notes/Session 1.md",
-    "Session Number.md",
+    "Templates/Template_Epic_Path.md",
     "Templates",
-    "Act notes",
-    "Factions and Guilds",
+    "Session Notes/Session 1.md",
     "Session Notes",
-    "Locations",
-    "NPC"
+    "NPC/The Five Gods of Thylea/Volkan, The God of Forges.md",
+    "NPC/The Five Gods of Thylea/Vallus, The Goddess of Wisdom.md",
+    "NPC/The Five Gods of Thylea/Pythor, The God of Battle.md",
+    "NPC/The Five Gods of Thylea/Mytros, The Goddess of Dawn.md",
+    "NPC/The Five Gods of Thylea/Kyrah, The Goddess of Music.md",
+    "NPC/The Five Gods of Thylea",
+    "NPC",
+    "Master/World of Thylea.md",
+    "Master/Untitled.md",
+    "Master/The Titans of Thylea.md",
+    "Master/The Five Gods of Thylea.md",
+    "Master/Templates/Template_Session.md",
+    "Master/Templates/Template_NPC.md",
+    "Master/Templates/Template_Location.md",
+    "Master/Templates/Template_Epic_Path.md",
+    "Master/Templates",
+    "Master/Session Notes/Session 1.md",
+    "Master/Session Notes",
+    "Master/NPC/The Five Gods of Thylea/Volkan, The God of Forges.md",
+    "Master/NPC/The Five Gods of Thylea/Vallus, The Goddess of Wisdom.md",
+    "Master/NPC/The Five Gods of Thylea",
+    "Master/NPC",
+    "Master"
   ]
 }
