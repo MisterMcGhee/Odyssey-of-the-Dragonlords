@@ -2,6 +2,7 @@
 
 ## Overview
 
+The Titans are the ancient divine powers native to Thylea who have existed since the dawn of time. They ruled unchallenged until the arrival of the Dragonlords and the emergence of the Five Gods. Though their influence has waned in the past 500 years, they remain incredibly powerful forces that shape the world through storms, dreams, and the turning of seasons.
 
 The Titans are feared and revered across all of Thylea. Even in cities where the Five Gods are openly worshipped, daily sacrifices are still made to appease the Titans, particularly Sydon and Lutheria, who demand constant acknowledgment of their power.
 
